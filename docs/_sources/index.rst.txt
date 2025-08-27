@@ -20,14 +20,23 @@ About
 :doc:`Funding <about/funding>`
     Learn about the Center's current and past funding.
 
-:doc:`Computational Support`
+:doc:`Computational Resources <about/resources>`
     Learn about the Center's computational resources.
 
 :doc:`Meetings <meetings/index>`
    Learn about upcoming and past meetings.
 
+:doc:`Results <results/index>`
+   Check out some cool results from PROCEED research.
+
 News
 ----
+[August 21, 2025] A new PPE in E3SMv3, called `Hephaestus <https://en.wikipedia.org/wiki/Hephaestus>`_, is currently running. The Hephaestus PPE is focused on aerosol activation and perturbs a different, larger set of parameters compared to the Nephele PPE. The PROCEED team will use the Hephaestus PPE to address more science questions on aerosols and clouds starting later this fall.
+
+[June 25, 2025] Preprint alert! A new study led by Dani Jones and Hunter Brown uses the Nephele PPE output alongside ARM data to constrain the preindustrial to present-day change in cloud drop number concentration. Find it `here on ESSOAr <https://doi.org/10.22541/essoar.175087280.06595777/v1>`_. This manuscript is currently under review at *GRL*.
+
+[June 4, 2025] The preprint for the `Nephele <https://en.wikipedia.org/wiki/Nephele>`_ E3SMv3 PPE overview paper is `out now on ESSOAr <https://doi.org/10.22541/essoar.174907165.57104591/v1>`_! This manuscript is currently under review at *JAMES*.
+
 [October 3, 2024] Version 0 of the software to make the PPE has been tagged on `GitHub <https://github.com/PROCEED-ESM/PROCEED-PPE>`_ and published with `Zenodo <https://doi.org/10.5281/zenodo.13887194>`_!
  
 [April 25, 2024] `E3SM Webinar <https://acme-climate.atlassian.net/wiki/spaces/ECM/pages/4266459137/2024-04-25+All-Hands+Presentation+Meeting+Notes>`_ Director McCoy presented to 60 participants for the `E3SM All-Hands Presentation Series <https://e3sm.org/about/events/all-hands-presentations/>`_ on PROCEED!

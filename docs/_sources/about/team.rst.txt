@@ -15,10 +15,13 @@ Senior Personnel
 Postdoctoral Associates
 -----------------------
    - Jacqueline Nugent, Department of Atmospheric Science, University of Wyoming
+   - Hunter Brown, Department of Atmospheric Science, University of Wyoming
    - Travis Aerenson, Department of Atmospheric Science, University of Wyoming
 
 Graduate Students
 -----------------
+   - Jiakun Liang, Department of Atmospheric Sciences, University of Hawai'i at Mānoa
 
 Undergraduate Students
 ----------------------
+   - Dani Jones (BS in Environmental Systems Science, University of Wyoming, 2025)
